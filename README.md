@@ -1,4 +1,4 @@
-NumericalRecipes
-================
+# Numerical Recipes
+- - - 
 
 The Art of Scientific Computing
